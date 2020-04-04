@@ -37,3 +37,10 @@ body {
 #home-head .home-inner {
   padding-top: 150px;
 }
+
+#home-head .fas {
+  color: #1e2749;
+  background-color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+}
