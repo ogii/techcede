@@ -43,7 +43,8 @@ body {
 }
 
 #home-head .fas,
-#discover-body .fas {
+#discover-body .fas,
+#service-body .fas {
   color: #1e2749;
   background-color: #fff;
   padding: 5px;
