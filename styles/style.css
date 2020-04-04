@@ -54,3 +54,17 @@ body {
 #service-head {
   background-color: #3d52a5;
 }
+
+#main-footer h6 {
+  margin-top: 10px;
+}
+
+#image_sources {
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+#image_sources li {
+  list-style: none;
+  display: inline-block;
+}
