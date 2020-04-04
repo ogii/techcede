@@ -1,1 +1,15 @@
 /* styles for project goes here */
+body {
+  background: #30343f;
+  color: #fff;
+}
+
+.navbar-brand,
+.nav-link {
+  color: #fafaff;
+}
+
+.navbar {
+  border-bottom: #e4d9ff 2px solid;
+  opacity: 0.8;
+}
